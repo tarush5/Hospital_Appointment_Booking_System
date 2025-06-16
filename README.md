@@ -1,8 +1,14 @@
 # Hospital_Appointment_Booking_System
+
+![Screenshot 2025-06-17 005144](https://github.com/user-attachments/assets/aa16c7e9-ce64-47f0-9ab9-9a6f20013f85)
+
 MediCure+ Hospital Appointment Booking System,
 a modern, full-stack hospital appointment booking system built with Next.js, featuring AI-powered health assistance, real-time appointment scheduling, and comprehensive patient management.
 
 🌟 Features
+
+![Screenshot 2025-06-17 010731](https://github.com/user-attachments/assets/69c2ee6e-843c-4f39-bce2-7609fc03061b)
+
 
 🏥 Core Functionality
 - Patient Registration & Authentication 
@@ -17,6 +23,9 @@ a modern, full-stack hospital appointment booking system built with Next.js, fea
 - Track appointment status, payments, and medical records
   
 🤖 AI-Powered Features
+
+![Screenshot 2025-06-17 010852](https://github.com/user-attachments/assets/c2200c1a-e30f-4c97-ae93-6bc433386cdd)
+
 - Intelligent Health Assistant 
 - 24/7 AI chatbot for health guidance and symptom assessment
 - Smart Symptom Analysis
@@ -37,6 +46,9 @@ a modern, full-stack hospital appointment booking system built with Next.js, fea
 - Next.js 15 App Router with server-side functionality
   
 🚀 Live Demo
+
+![Screenshot 2025-06-17 010812](https://github.com/user-attachments/assets/66c79d4a-882c-47ff-a835-1a3f73164762)
+
 
 Experience the application with these demo credentials:
 
